@@ -3,4 +3,9 @@ nipun gaarg
 khana kha lia 
 ravi kataria 
 \rajeev ranjan 
+<<<<<<< HEAD
 names.txt{+
+=======
+names.txt{+}
+
+>>>>>>> 8e46403b28f381793fb108e8f779889925e91dc2
